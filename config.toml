@@ -1,4 +1,4 @@
-baseURL = "http://damotek.github.io/www/ "
+baseURL = "http://damotek.github.io/www/"
 languageCode = "en-us"
 title = "Cactus theme example"
 theme = "cactus"
